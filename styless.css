@@ -92,7 +92,7 @@ p{
 #footpng{
     width: 217px;
     height: 266px;
-    border: 10px solid #264653;
+    
 }
 #pontez{
     background:#E76F51;
@@ -107,16 +107,20 @@ margin-top:-20px;
 }
 #foot{
 background: #264653;
-width:830px;
-height:240px;
-margin:40px 145px;
+width:900px;
+height:270px;
+margin:40px 120px;
 display: flex;
 justify-content: center;
 align-items: center;
+border-radius: 5px;
+
 }
 #footp{
     color:white;
     text-shadow: #280E0E;
+    margin-left: 5px;
+    
 }
 #nev{
     color:aliceblue;
