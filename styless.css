@@ -1,0 +1,133 @@
+html{
+   
+    background:linear-gradient(#264653, #2A9D8F);
+    display: flex;
+    justify-content:center;
+    align-items:flex-start;
+    margin:0;
+    font-family:caveat, cursive;
+}
+.caveat{
+    font-family: "Caveat", cursive;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+  }
+body{
+    height:auto;
+    width:1120px;
+    background:#E9C46A;
+    margin:0;
+}
+
+#header{
+    background-image: url(pics/main.jpg);
+    background-size:cover;
+    width:1120px;
+    height: 600px;
+    display:flex;
+}
+#visit{
+    background: linear-gradient(#019375, #00B4FF);
+    width:133px;
+    height: 64px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin:253px 793px 283px 193px;
+    font-size: 70px;
+    font-weight:bold;
+   
+}
+img{
+    width:270px;
+    height: 180px;
+    border: 2px solid #264653;
+    border-radius: 10px;
+
+}
+h1{
+font-size: 48px;
+text-align: center;
+color:#E76F51;
+margin:10px 30px;
+text-shadow: 2px 2px black;
+
+}
+.kepa{
+font-size:25px;
+text-align: center;
+}
+#frame2{
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+}
+h2{
+    font-size: 34px;
+    text-align: center;
+    text-shadow:2px 2px #E76F51;
+}
+.things{
+    background:#F4A261;
+    margin:20px 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border:2px solid #264653;
+    border-radius: 15px;
+}
+h3{
+    color:#264653;
+    font-size:32px;
+    text-align: center;
+}
+p{
+    text-align:left;
+    font-size:24px;
+    
+    
+    
+}
+#footpng{
+    width: 217px;
+    height: 266px;
+    border: 10px solid #264653;
+}
+#pontez{
+    background:#E76F51;
+    text-align: center;
+    border-radius: 10px;
+    width: 1120px;
+    height: 400px;
+    display: flex;
+justify-content: center;
+align-items: center;
+margin-top:-20px;
+}
+#foot{
+background: #264653;
+width:830px;
+height:240px;
+margin:40px 145px;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+#footp{
+    color:white;
+    text-shadow: #280E0E;
+}
+#nev{
+    color:aliceblue;
+    text-shadow: #280E0E;
+    margin-top:-80px;
+    margin-left:235px;
+    margin-right: 820px;
+    background: #264653;
+}
+#link{
+margin-top:-40px;
+margin-left: 800px;
+font-size:30px;
+}
